@@ -1,8 +1,8 @@
 Class,Name,Domain Bucket
 Itemtype,https://schema.org/3DModel,< 1K
 Itemtype,https://schema.org/AMRadioChannel,< 1K
-Itemtype,https://schema.org/APIReference,< 1K
-Itemtype,https://schema.org/AboutPage,100K - 1M
+Itemtype,https://schema.org/APIReference,1K - 10K
+Itemtype,https://schema.org/AboutPage,1M - 10M
 Itemtype,https://schema.org/AcceptAction,< 1K
 Itemtype,https://schema.org/Accommodation,10K - 100K
 Itemtype,https://schema.org/AccountingService,10K - 100K
@@ -41,8 +41,8 @@ Itemtype,https://schema.org/ArchiveOrganization,1K - 10K
 Itemtype,https://schema.org/ArriveAction,< 1K
 Itemtype,https://schema.org/ArtGallery,1K - 10K
 Itemtype,https://schema.org/Artery,< 1K
-Itemtype,https://schema.org/Article,1M - 10M
-Itemtype,https://schema.org/AskAction,< 1K
+Itemtype,https://schema.org/Article,10M+
+Itemtype,https://schema.org/AskAction,1K - 10K
 Itemtype,https://schema.org/AskPublicNewsArticle,< 1K
 Itemtype,https://schema.org/AssessAction,< 1K
 Itemtype,https://schema.org/AssignAction,< 1K
@@ -78,7 +78,7 @@ Itemtype,https://schema.org/BikeStore,1K - 10K
 Itemtype,https://schema.org/BioChemEntity,< 1K
 Itemtype,https://schema.org/Blog,1M - 10M
 Itemtype,https://schema.org/BlogPosting,1M - 10M
-Itemtype,https://schema.org/BloodTest,< 1K
+Itemtype,https://schema.org/BloodTest,1K - 10K
 Itemtype,https://schema.org/BoardingPolicyType,< 1K
 Itemtype,https://schema.org/BoatReservation,< 1K
 Itemtype,https://schema.org/BoatTerminal,< 1K
@@ -109,7 +109,7 @@ Itemtype,https://schema.org/BusOrCoach,< 1K
 Itemtype,https://schema.org/BusReservation,< 1K
 Itemtype,https://schema.org/BusStation,< 1K
 Itemtype,https://schema.org/BusStop,< 1K
-Itemtype,https://schema.org/BusTrip,< 1K
+Itemtype,https://schema.org/BusTrip,1K - 10K
 Itemtype,https://schema.org/BusinessAudience,10K - 100K
 Itemtype,https://schema.org/BusinessEntityType,< 1K
 Itemtype,https://schema.org/BusinessEvent,1K - 10K
@@ -117,7 +117,7 @@ Itemtype,https://schema.org/BusinessFunction,< 1K
 Itemtype,https://schema.org/BuyAction,1M - 10M
 Itemtype,https://schema.org/CDCPMDRecord,< 1K
 Itemtype,https://schema.org/CableOrSatelliteService,< 1K
-Itemtype,https://schema.org/CafeOrCoffeeShop,1K - 10K
+Itemtype,https://schema.org/CafeOrCoffeeShop,10K - 100K
 Itemtype,https://schema.org/Campground,1K - 10K
 Itemtype,https://schema.org/CampingPitch,< 1K
 Itemtype,https://schema.org/Canal,< 1K
@@ -136,7 +136,7 @@ Itemtype,https://schema.org/CheckAction,< 1K
 Itemtype,https://schema.org/CheckInAction,< 1K
 Itemtype,https://schema.org/CheckOutAction,< 1K
 Itemtype,https://schema.org/CheckoutPage,1K - 10K
-Itemtype,https://schema.org/ChemicalSubstance,< 1K
+Itemtype,https://schema.org/ChemicalSubstance,1K - 10K
 Itemtype,https://schema.org/ChildCare,1K - 10K
 Itemtype,https://schema.org/ChildrensEvent,< 1K
 Itemtype,https://schema.org/ChooseAction,1K - 10K
@@ -172,12 +172,12 @@ Itemtype,https://schema.org/ConfirmAction,< 1K
 Itemtype,https://schema.org/Consortium,< 1K
 Itemtype,https://schema.org/ConstraintNode,< 1K
 Itemtype,https://schema.org/ConsumeAction,< 1K
-Itemtype,https://schema.org/ContactPage,100K - 1M
+Itemtype,https://schema.org/ContactPage,1M - 10M
 Itemtype,https://schema.org/ContactPoint,1M - 10M
 Itemtype,https://schema.org/ContactPointOption,< 1K
 Itemtype,https://schema.org/Continent,1K - 10K
 Itemtype,https://schema.org/ControlAction,< 1K
-Itemtype,https://schema.org/ConvenienceStore,< 1K
+Itemtype,https://schema.org/ConvenienceStore,1K - 10K
 Itemtype,https://schema.org/Conversation,< 1K
 Itemtype,https://schema.org/CookAction,< 1K
 Itemtype,https://schema.org/Cooperative,< 1K
@@ -206,7 +206,7 @@ Itemtype,https://schema.org/DanceGroup,< 1K
 Itemtype,https://schema.org/DataCatalog,1K - 10K
 Itemtype,https://schema.org/DataDownload,10K - 100K
 Itemtype,https://schema.org/DataFeed,1K - 10K
-Itemtype,https://schema.org/DataFeedItem,1K - 10K
+Itemtype,https://schema.org/DataFeedItem,< 1K
 Itemtype,https://schema.org/DataType,< 1K
 Itemtype,https://schema.org/Dataset,10K - 100K
 Itemtype,https://schema.org/Date,< 1K
@@ -234,7 +234,7 @@ Itemtype,https://schema.org/DiagnosticLab,1K - 10K
 Itemtype,https://schema.org/DiagnosticProcedure,< 1K
 Itemtype,https://schema.org/Diet,< 1K
 Itemtype,https://schema.org/DietNutrition,1K - 10K
-Itemtype,https://schema.org/DietarySupplement,< 1K
+Itemtype,https://schema.org/DietarySupplement,1K - 10K
 Itemtype,https://schema.org/DigitalDocument,10K - 100K
 Itemtype,https://schema.org/DigitalDocumentPermission,< 1K
 Itemtype,https://schema.org/DigitalDocumentPermissionType,< 1K
@@ -247,7 +247,7 @@ Itemtype,https://schema.org/Distance,1K - 10K
 Itemtype,https://schema.org/Distillery,< 1K
 Itemtype,https://schema.org/DonateAction,1K - 10K
 Itemtype,https://schema.org/DoseSchedule,< 1K
-Itemtype,https://schema.org/DownloadAction,1K - 10K
+Itemtype,https://schema.org/DownloadAction,10K - 100K
 Itemtype,https://schema.org/DrawAction,< 1K
 Itemtype,https://schema.org/Drawing,< 1K
 Itemtype,https://schema.org/DrinkAction,< 1K
@@ -266,7 +266,7 @@ Itemtype,https://schema.org/EUEnergyEfficiencyEnumeration,< 1K
 Itemtype,https://schema.org/EatAction,< 1K
 Itemtype,https://schema.org/EducationEvent,1K - 10K
 Itemtype,https://schema.org/EducationalAudience,10K - 100K
-Itemtype,https://schema.org/EducationalOccupationalCredential,10K - 100K
+Itemtype,https://schema.org/EducationalOccupationalCredential,100K - 1M
 Itemtype,https://schema.org/EducationalOccupationalProgram,1K - 10K
 Itemtype,https://schema.org/EducationalOrganization,100K - 1M
 Itemtype,https://schema.org/Electrician,10K - 100K
@@ -298,7 +298,7 @@ Itemtype,https://schema.org/EventReservation,< 1K
 Itemtype,https://schema.org/EventSeries,1K - 10K
 Itemtype,https://schema.org/EventStatusType,< 1K
 Itemtype,https://schema.org/EventVenue,10K - 100K
-Itemtype,https://schema.org/ExchangeRateSpecification,< 1K
+Itemtype,https://schema.org/ExchangeRateSpecification,1K - 10K
 Itemtype,https://schema.org/ExerciseAction,< 1K
 Itemtype,https://schema.org/ExerciseGym,1K - 10K
 Itemtype,https://schema.org/ExercisePlan,< 1K
@@ -311,7 +311,7 @@ Itemtype,https://schema.org/FilmAction,< 1K
 Itemtype,https://schema.org/FinancialIncentive,< 1K
 Itemtype,https://schema.org/FinancialProduct,10K - 100K
 Itemtype,https://schema.org/FinancialService,10K - 100K
-Itemtype,https://schema.org/FindAction,< 1K
+Itemtype,https://schema.org/FindAction,1K - 10K
 Itemtype,https://schema.org/FireStation,< 1K
 Itemtype,https://schema.org/Flight,1K - 10K
 Itemtype,https://schema.org/FlightReservation,< 1K
@@ -374,7 +374,7 @@ Itemtype,https://schema.org/HomeAndConstructionBusiness,100K - 1M
 Itemtype,https://schema.org/HomeGoodsStore,1K - 10K
 Itemtype,https://schema.org/Hospital,10K - 100K
 Itemtype,https://schema.org/Hostel,1K - 10K
-Itemtype,https://schema.org/Hotel,10K - 100K
+Itemtype,https://schema.org/Hotel,100K - 1M
 Itemtype,https://schema.org/HotelRoom,10K - 100K
 Itemtype,https://schema.org/House,10K - 100K
 Itemtype,https://schema.org/HousePainter,1K - 10K
@@ -429,13 +429,13 @@ Itemtype,https://schema.org/LakeBodyOfWater,< 1K
 Itemtype,https://schema.org/Landform,1K - 10K
 Itemtype,https://schema.org/LandmarksOrHistoricalBuildings,1K - 10K
 Itemtype,https://schema.org/Language,10K - 100K
-Itemtype,https://schema.org/LearningResource,1K - 10K
+Itemtype,https://schema.org/LearningResource,10K - 100K
 Itemtype,https://schema.org/LeaveAction,< 1K
 Itemtype,https://schema.org/LegalForceStatus,< 1K
 Itemtype,https://schema.org/LegalService,10K - 100K
 Itemtype,https://schema.org/LegalValueLevel,< 1K
 Itemtype,https://schema.org/Legislation,1K - 10K
-Itemtype,https://schema.org/LegislationObject,1K - 10K
+Itemtype,https://schema.org/LegislationObject,< 1K
 Itemtype,https://schema.org/LegislativeBuilding,< 1K
 Itemtype,https://schema.org/LendAction,< 1K
 Itemtype,https://schema.org/Library,1K - 10K
@@ -477,7 +477,7 @@ Itemtype,https://schema.org/MediaReviewItem,< 1K
 Itemtype,https://schema.org/MediaSubscription,< 1K
 Itemtype,https://schema.org/MedicalAudience,10K - 100K
 Itemtype,https://schema.org/MedicalAudienceType,< 1K
-Itemtype,https://schema.org/MedicalBusiness,10K - 100K
+Itemtype,https://schema.org/MedicalBusiness,100K - 1M
 Itemtype,https://schema.org/MedicalCause,1K - 10K
 Itemtype,https://schema.org/MedicalClinic,10K - 100K
 Itemtype,https://schema.org/MedicalCode,1K - 10K
@@ -489,7 +489,7 @@ Itemtype,https://schema.org/MedicalDevicePurpose,< 1K
 Itemtype,https://schema.org/MedicalEntity,1K - 10K
 Itemtype,https://schema.org/MedicalEnumeration,< 1K
 Itemtype,https://schema.org/MedicalEvidenceLevel,< 1K
-Itemtype,https://schema.org/MedicalGuideline,< 1K
+Itemtype,https://schema.org/MedicalGuideline,1K - 10K
 Itemtype,https://schema.org/MedicalGuidelineContraindication,< 1K
 Itemtype,https://schema.org/MedicalGuidelineRecommendation,< 1K
 Itemtype,https://schema.org/MedicalImagingTechnique,< 1K
@@ -511,7 +511,7 @@ Itemtype,https://schema.org/MedicalSpecialty,10K - 100K
 Itemtype,https://schema.org/MedicalStudy,1K - 10K
 Itemtype,https://schema.org/MedicalStudyStatus,< 1K
 Itemtype,https://schema.org/MedicalSymptom,1K - 10K
-Itemtype,https://schema.org/MedicalTest,1K - 10K
+Itemtype,https://schema.org/MedicalTest,10K - 100K
 Itemtype,https://schema.org/MedicalTestPanel,< 1K
 Itemtype,https://schema.org/MedicalTherapy,10K - 100K
 Itemtype,https://schema.org/MedicalTrial,< 1K
@@ -658,7 +658,7 @@ Itemtype,https://schema.org/PlaceOfWorship,1K - 10K
 Itemtype,https://schema.org/PlanAction,< 1K
 Itemtype,https://schema.org/PlasticSurgery,< 1K
 Itemtype,https://schema.org/Play,< 1K
-Itemtype,https://schema.org/PlayAction,10K - 100K
+Itemtype,https://schema.org/PlayAction,1K - 10K
 Itemtype,https://schema.org/PlayGameAction,< 1K
 Itemtype,https://schema.org/Playground,< 1K
 Itemtype,https://schema.org/Plumber,10K - 100K
@@ -667,7 +667,7 @@ Itemtype,https://schema.org/PodcastSeason,< 1K
 Itemtype,https://schema.org/PodcastSeries,10K - 100K
 Itemtype,https://schema.org/Podiatric,< 1K
 Itemtype,https://schema.org/PoliceStation,< 1K
-Itemtype,https://schema.org/PoliticalParty,< 1K
+Itemtype,https://schema.org/PoliticalParty,1K - 10K
 Itemtype,https://schema.org/Pond,< 1K
 Itemtype,https://schema.org/PostOffice,< 1K
 Itemtype,https://schema.org/PostalAddress,10M+
@@ -720,7 +720,7 @@ Itemtype,https://schema.org/RadiationTherapy,< 1K
 Itemtype,https://schema.org/RadioBroadcastService,< 1K
 Itemtype,https://schema.org/RadioChannel,< 1K
 Itemtype,https://schema.org/RadioClip,< 1K
-Itemtype,https://schema.org/RadioEpisode,1K - 10K
+Itemtype,https://schema.org/RadioEpisode,< 1K
 Itemtype,https://schema.org/RadioSeason,< 1K
 Itemtype,https://schema.org/RadioSeries,1K - 10K
 Itemtype,https://schema.org/RadioStation,1K - 10K
@@ -735,7 +735,7 @@ Itemtype,https://schema.org/Recommendation,< 1K
 Itemtype,https://schema.org/RecommendedDoseSchedule,< 1K
 Itemtype,https://schema.org/RecyclingCenter,1K - 10K
 Itemtype,https://schema.org/RefundTypeEnumeration,< 1K
-Itemtype,https://schema.org/RegisterAction,1K - 10K
+Itemtype,https://schema.org/RegisterAction,10K - 100K
 Itemtype,https://schema.org/RejectAction,< 1K
 Itemtype,https://schema.org/RentAction,1K - 10K
 Itemtype,https://schema.org/RentalCarReservation,< 1K
@@ -779,7 +779,7 @@ Itemtype,https://schema.org/SatiricalArticle,< 1K
 Itemtype,https://schema.org/Schedule,10K - 100K
 Itemtype,https://schema.org/ScheduleAction,1K - 10K
 Itemtype,https://schema.org/ScholarlyArticle,10K - 100K
-Itemtype,https://schema.org/School,1K - 10K
+Itemtype,https://schema.org/School,10K - 100K
 Itemtype,https://schema.org/SchoolDistrict,< 1K
 Itemtype,https://schema.org/ScreeningEvent,1K - 10K
 Itemtype,https://schema.org/Sculpture,< 1K
@@ -812,10 +812,10 @@ Itemtype,https://schema.org/SiteNavigationElement,1M - 10M
 Itemtype,https://schema.org/SizeGroupEnumeration,< 1K
 Itemtype,https://schema.org/SizeSpecification,1K - 10K
 Itemtype,https://schema.org/SizeSystemEnumeration,< 1K
-Itemtype,https://schema.org/SkiResort,< 1K
+Itemtype,https://schema.org/SkiResort,1K - 10K
 Itemtype,https://schema.org/SocialEvent,1K - 10K
 Itemtype,https://schema.org/SocialMediaPosting,10K - 100K
-Itemtype,https://schema.org/SoftwareApplication,100K - 1M
+Itemtype,https://schema.org/SoftwareApplication,1M - 10M
 Itemtype,https://schema.org/SoftwareSourceCode,1K - 10K
 Itemtype,https://schema.org/SolveMathAction,< 1K
 Itemtype,https://schema.org/SomeProducts,10K - 100K
@@ -842,7 +842,7 @@ Itemtype,https://schema.org/StupidType,< 1K
 Itemtype,https://schema.org/SubscribeAction,10K - 100K
 Itemtype,https://schema.org/Substance,< 1K
 Itemtype,https://schema.org/SubwayStation,< 1K
-Itemtype,https://schema.org/Suite,< 1K
+Itemtype,https://schema.org/Suite,1K - 10K
 Itemtype,https://schema.org/SuperficialAnatomy,< 1K
 Itemtype,https://schema.org/SurgicalProcedure,1K - 10K
 Itemtype,https://schema.org/SuspendAction,< 1K
@@ -857,7 +857,7 @@ Itemtype,https://schema.org/TakeAction,< 1K
 Itemtype,https://schema.org/TattooParlor,1K - 10K
 Itemtype,https://schema.org/Taxi,< 1K
 Itemtype,https://schema.org/TaxiReservation,< 1K
-Itemtype,https://schema.org/TaxiService,1K - 10K
+Itemtype,https://schema.org/TaxiService,10K - 100K
 Itemtype,https://schema.org/TaxiStand,< 1K
 Itemtype,https://schema.org/Taxon,< 1K
 Itemtype,https://schema.org/TechArticle,10K - 100K
@@ -893,7 +893,7 @@ Itemtype,https://schema.org/TravelAction,1K - 10K
 Itemtype,https://schema.org/TravelAgency,10K - 100K
 Itemtype,https://schema.org/TreatmentIndication,< 1K
 Itemtype,https://schema.org/Trip,10K - 100K
-Itemtype,https://schema.org/TypeAndQuantityNode,< 1K
+Itemtype,https://schema.org/TypeAndQuantityNode,1K - 10K
 Itemtype,https://schema.org/UKNonprofitType,< 1K
 Itemtype,https://schema.org/URL,1K - 10K
 Itemtype,https://schema.org/USNonprofitType,< 1K
@@ -916,7 +916,7 @@ Itemtype,https://schema.org/VacationRental,10K - 100K
 Itemtype,https://schema.org/Vehicle,10K - 100K
 Itemtype,https://schema.org/Vein,< 1K
 Itemtype,https://schema.org/Vessel,< 1K
-Itemtype,https://schema.org/VeterinaryCare,1K - 10K
+Itemtype,https://schema.org/VeterinaryCare,10K - 100K
 Itemtype,https://schema.org/VideoGallery,1K - 10K
 Itemtype,https://schema.org/VideoGame,10K - 100K
 Itemtype,https://schema.org/VideoGameClip,< 1K
@@ -1110,7 +1110,7 @@ Predicate,https://schema.org/adverseOutcome-output,< 1K
 Predicate,https://schema.org/affectedBy,< 1K
 Predicate,https://schema.org/affectedBy-input,< 1K
 Predicate,https://schema.org/affectedBy-output,< 1K
-Predicate,https://schema.org/affiliation,10K - 100K
+Predicate,https://schema.org/affiliation,100K - 1M
 Predicate,https://schema.org/affiliation-input,< 1K
 Predicate,https://schema.org/affiliation-output,< 1K
 Predicate,https://schema.org/afterMedia,< 1K
@@ -1215,13 +1215,13 @@ Predicate,https://schema.org/applicationCategory-output,< 1K
 Predicate,https://schema.org/applicationContact,1K - 10K
 Predicate,https://schema.org/applicationContact-input,< 1K
 Predicate,https://schema.org/applicationContact-output,< 1K
-Predicate,https://schema.org/applicationDeadline,< 1K
+Predicate,https://schema.org/applicationDeadline,1K - 10K
 Predicate,https://schema.org/applicationDeadline-input,< 1K
 Predicate,https://schema.org/applicationDeadline-output,< 1K
 Predicate,https://schema.org/applicationStartDate,< 1K
 Predicate,https://schema.org/applicationStartDate-input,< 1K
 Predicate,https://schema.org/applicationStartDate-output,< 1K
-Predicate,https://schema.org/applicationSubCategory,10K - 100K
+Predicate,https://schema.org/applicationSubCategory,100K - 1M
 Predicate,https://schema.org/applicationSubCategory-input,< 1K
 Predicate,https://schema.org/applicationSubCategory-output,< 1K
 Predicate,https://schema.org/applicationSuite,1K - 10K
@@ -1290,7 +1290,7 @@ Predicate,https://schema.org/articleSection-output,< 1K
 Predicate,https://schema.org/artist,1K - 10K
 Predicate,https://schema.org/artist-input,< 1K
 Predicate,https://schema.org/artist-output,< 1K
-Predicate,https://schema.org/artworkSurface,< 1K
+Predicate,https://schema.org/artworkSurface,1K - 10K
 Predicate,https://schema.org/artworkSurface-input,< 1K
 Predicate,https://schema.org/artworkSurface-output,< 1K
 Predicate,https://schema.org/asin,< 1K
@@ -1332,7 +1332,7 @@ Predicate,https://schema.org/associatedPathophysiology-output,< 1K
 Predicate,https://schema.org/associatedReview,< 1K
 Predicate,https://schema.org/associatedReview-input,< 1K
 Predicate,https://schema.org/associatedReview-output,< 1K
-Predicate,https://schema.org/athlete,< 1K
+Predicate,https://schema.org/athlete,1K - 10K
 Predicate,https://schema.org/athlete-input,< 1K
 Predicate,https://schema.org/athlete-output,< 1K
 Predicate,https://schema.org/attendee,1K - 10K
@@ -1362,7 +1362,7 @@ Predicate,https://schema.org/author-output,< 1K
 Predicate,https://schema.org/availability,10M+
 Predicate,https://schema.org/availability-input,< 1K
 Predicate,https://schema.org/availability-output,< 1K
-Predicate,https://schema.org/availabilityEnds,1K - 10K
+Predicate,https://schema.org/availabilityEnds,10K - 100K
 Predicate,https://schema.org/availabilityEnds-input,< 1K
 Predicate,https://schema.org/availabilityEnds-output,< 1K
 Predicate,https://schema.org/availabilityStarts,10K - 100K
@@ -1374,7 +1374,7 @@ Predicate,https://schema.org/availableAtOrFrom-output,< 1K
 Predicate,https://schema.org/availableChannel,100K - 1M
 Predicate,https://schema.org/availableChannel-input,< 1K
 Predicate,https://schema.org/availableChannel-output,< 1K
-Predicate,https://schema.org/availableDeliveryMethod,10K - 100K
+Predicate,https://schema.org/availableDeliveryMethod,100K - 1M
 Predicate,https://schema.org/availableDeliveryMethod-input,< 1K
 Predicate,https://schema.org/availableDeliveryMethod-output,< 1K
 Predicate,https://schema.org/availableFrom,< 1K
@@ -1401,7 +1401,7 @@ Predicate,https://schema.org/availableTest-output,< 1K
 Predicate,https://schema.org/availableThrough,< 1K
 Predicate,https://schema.org/availableThrough-input,< 1K
 Predicate,https://schema.org/availableThrough-output,< 1K
-Predicate,https://schema.org/award,10K - 100K
+Predicate,https://schema.org/award,100K - 1M
 Predicate,https://schema.org/award-input,< 1K
 Predicate,https://schema.org/award-output,< 1K
 Predicate,https://schema.org/awards,1K - 10K
@@ -1647,7 +1647,7 @@ Predicate,https://schema.org/causeOf-output,< 1K
 Predicate,https://schema.org/ccRecipient,< 1K
 Predicate,https://schema.org/ccRecipient-input,< 1K
 Predicate,https://schema.org/ccRecipient-output,< 1K
-Predicate,https://schema.org/certificationIdentification,1K - 10K
+Predicate,https://schema.org/certificationIdentification,10K - 100K
 Predicate,https://schema.org/certificationIdentification-input,< 1K
 Predicate,https://schema.org/certificationIdentification-output,< 1K
 Predicate,https://schema.org/certificationRating,< 1K
@@ -1722,7 +1722,7 @@ Predicate,https://schema.org/clipNumber-output,< 1K
 Predicate,https://schema.org/closes,1M - 10M
 Predicate,https://schema.org/closes-input,< 1K
 Predicate,https://schema.org/closes-output,< 1K
-Predicate,https://schema.org/coach,< 1K
+Predicate,https://schema.org/coach,1K - 10K
 Predicate,https://schema.org/coach-input,< 1K
 Predicate,https://schema.org/coach-output,< 1K
 Predicate,https://schema.org/code,1K - 10K
@@ -1929,7 +1929,7 @@ Predicate,https://schema.org/creativeWorkStatus-output,< 1K
 Predicate,https://schema.org/creator,1M - 10M
 Predicate,https://schema.org/creator-input,< 1K
 Predicate,https://schema.org/creator-output,< 1K
-Predicate,https://schema.org/credentialCategory,10K - 100K
+Predicate,https://schema.org/credentialCategory,100K - 1M
 Predicate,https://schema.org/credentialCategory-input,< 1K
 Predicate,https://schema.org/credentialCategory-output,< 1K
 Predicate,https://schema.org/creditText,100K - 1M
@@ -2112,7 +2112,7 @@ Predicate,https://schema.org/departureTerminal-output,< 1K
 Predicate,https://schema.org/departureTime,1K - 10K
 Predicate,https://schema.org/departureTime-input,< 1K
 Predicate,https://schema.org/departureTime-output,< 1K
-Predicate,https://schema.org/dependencies,1K - 10K
+Predicate,https://schema.org/dependencies,10K - 100K
 Predicate,https://schema.org/dependencies-input,< 1K
 Predicate,https://schema.org/dependencies-output,< 1K
 Predicate,https://schema.org/depth,10K - 100K
@@ -2289,7 +2289,7 @@ Predicate,https://schema.org/educationalAlignment-output,< 1K
 Predicate,https://schema.org/educationalCredentialAwarded,10K - 100K
 Predicate,https://schema.org/educationalCredentialAwarded-input,< 1K
 Predicate,https://schema.org/educationalCredentialAwarded-output,< 1K
-Predicate,https://schema.org/educationalFramework,< 1K
+Predicate,https://schema.org/educationalFramework,1K - 10K
 Predicate,https://schema.org/educationalFramework-input,< 1K
 Predicate,https://schema.org/educationalFramework-output,< 1K
 Predicate,https://schema.org/educationalLevel,10K - 100K
@@ -2316,7 +2316,7 @@ Predicate,https://schema.org/eligibleCustomerType-output,< 1K
 Predicate,https://schema.org/eligibleDuration,10K - 100K
 Predicate,https://schema.org/eligibleDuration-input,< 1K
 Predicate,https://schema.org/eligibleDuration-output,< 1K
-Predicate,https://schema.org/eligibleQuantity,10K - 100K
+Predicate,https://schema.org/eligibleQuantity,100K - 1M
 Predicate,https://schema.org/eligibleQuantity-input,< 1K
 Predicate,https://schema.org/eligibleQuantity-output,< 1K
 Predicate,https://schema.org/eligibleRegion,10K - 100K
@@ -2367,7 +2367,7 @@ Predicate,https://schema.org/encoding-output,< 1K
 Predicate,https://schema.org/encodingFormat,10K - 100K
 Predicate,https://schema.org/encodingFormat-input,< 1K
 Predicate,https://schema.org/encodingFormat-output,< 1K
-Predicate,https://schema.org/encodingType,< 1K
+Predicate,https://schema.org/encodingType,1K - 10K
 Predicate,https://schema.org/encodingType-input,< 1K
 Predicate,https://schema.org/encodingType-output,< 1K
 Predicate,https://schema.org/encodings,< 1K
@@ -2406,7 +2406,7 @@ Predicate,https://schema.org/engineType-output,< 1K
 Predicate,https://schema.org/entertainmentBusiness,< 1K
 Predicate,https://schema.org/entertainmentBusiness-input,< 1K
 Predicate,https://schema.org/entertainmentBusiness-output,< 1K
-Predicate,https://schema.org/epidemiology,< 1K
+Predicate,https://schema.org/epidemiology,1K - 10K
 Predicate,https://schema.org/epidemiology-input,< 1K
 Predicate,https://schema.org/epidemiology-output,< 1K
 Predicate,https://schema.org/episode,1K - 10K
@@ -2541,7 +2541,7 @@ Predicate,https://schema.org/fiberContent-output,< 1K
 Predicate,https://schema.org/fileFormat,10K - 100K
 Predicate,https://schema.org/fileFormat-input,< 1K
 Predicate,https://schema.org/fileFormat-output,< 1K
-Predicate,https://schema.org/fileSize,10K - 100K
+Predicate,https://schema.org/fileSize,100K - 1M
 Predicate,https://schema.org/fileSize-input,< 1K
 Predicate,https://schema.org/fileSize-output,< 1K
 Predicate,https://schema.org/financialAidEligible,< 1K
@@ -2586,7 +2586,7 @@ Predicate,https://schema.org/foodEvent-output,< 1K
 Predicate,https://schema.org/foodWarning,< 1K
 Predicate,https://schema.org/foodWarning-input,< 1K
 Predicate,https://schema.org/foodWarning-output,< 1K
-Predicate,https://schema.org/founder,100K - 1M
+Predicate,https://schema.org/founder,1M - 10M
 Predicate,https://schema.org/founder-input,< 1K
 Predicate,https://schema.org/founder-output,< 1K
 Predicate,https://schema.org/founders,10K - 100K
@@ -2598,7 +2598,7 @@ Predicate,https://schema.org/foundingDate-output,< 1K
 Predicate,https://schema.org/foundingLocation,100K - 1M
 Predicate,https://schema.org/foundingLocation-input,< 1K
 Predicate,https://schema.org/foundingLocation-output,< 1K
-Predicate,https://schema.org/free,1K - 10K
+Predicate,https://schema.org/free,< 1K
 Predicate,https://schema.org/free-input,< 1K
 Predicate,https://schema.org/free-output,< 1K
 Predicate,https://schema.org/freeShippingThreshold,10K - 100K
@@ -2775,7 +2775,7 @@ Predicate,https://schema.org/hasBroadcastChannel-output,< 1K
 Predicate,https://schema.org/hasCategoryCode,< 1K
 Predicate,https://schema.org/hasCategoryCode-input,< 1K
 Predicate,https://schema.org/hasCategoryCode-output,< 1K
-Predicate,https://schema.org/hasCertification,1K - 10K
+Predicate,https://schema.org/hasCertification,10K - 100K
 Predicate,https://schema.org/hasCertification-input,< 1K
 Predicate,https://schema.org/hasCertification-output,< 1K
 Predicate,https://schema.org/hasCourse,1K - 10K
@@ -2796,7 +2796,7 @@ Predicate,https://schema.org/hasDeliveryMethod-output,< 1K
 Predicate,https://schema.org/hasDigitalDocumentPermission,< 1K
 Predicate,https://schema.org/hasDigitalDocumentPermission-input,< 1K
 Predicate,https://schema.org/hasDigitalDocumentPermission-output,< 1K
-Predicate,https://schema.org/hasDriveThroughService,< 1K
+Predicate,https://schema.org/hasDriveThroughService,1K - 10K
 Predicate,https://schema.org/hasDriveThroughService-input,< 1K
 Predicate,https://schema.org/hasDriveThroughService-output,< 1K
 Predicate,https://schema.org/hasEnergyConsumptionDetails,1K - 10K
@@ -2820,7 +2820,7 @@ Predicate,https://schema.org/hasMeasurement-output,< 1K
 Predicate,https://schema.org/hasMemberProgram,1K - 10K
 Predicate,https://schema.org/hasMemberProgram-input,< 1K
 Predicate,https://schema.org/hasMemberProgram-output,< 1K
-Predicate,https://schema.org/hasMenu,10K - 100K
+Predicate,https://schema.org/hasMenu,100K - 1M
 Predicate,https://schema.org/hasMenu-input,< 1K
 Predicate,https://schema.org/hasMenu-output,< 1K
 Predicate,https://schema.org/hasMenuItem,10K - 100K
@@ -2955,7 +2955,7 @@ Predicate,https://schema.org/hostingOrganization-output,< 1K
 Predicate,https://schema.org/hoursAvailable,100K - 1M
 Predicate,https://schema.org/hoursAvailable-input,< 1K
 Predicate,https://schema.org/hoursAvailable-output,< 1K
-Predicate,https://schema.org/howPerformed,1K - 10K
+Predicate,https://schema.org/howPerformed,10K - 100K
 Predicate,https://schema.org/howPerformed-input,< 1K
 Predicate,https://schema.org/howPerformed-output,< 1K
 Predicate,https://schema.org/httpMethod,1K - 10K
@@ -3189,7 +3189,7 @@ Predicate,https://schema.org/isRelatedTo-output,< 1K
 Predicate,https://schema.org/isResizable,< 1K
 Predicate,https://schema.org/isResizable-input,< 1K
 Predicate,https://schema.org/isResizable-output,< 1K
-Predicate,https://schema.org/isSimilarTo,1K - 10K
+Predicate,https://schema.org/isSimilarTo,10K - 100K
 Predicate,https://schema.org/isSimilarTo-input,< 1K
 Predicate,https://schema.org/isSimilarTo-output,< 1K
 Predicate,https://schema.org/isStoreOn,< 1K
@@ -3303,7 +3303,7 @@ Predicate,https://schema.org/knownVehicleDamages-output,< 1K
 Predicate,https://schema.org/knows,1K - 10K
 Predicate,https://schema.org/knows-input,< 1K
 Predicate,https://schema.org/knows-output,< 1K
-Predicate,https://schema.org/knowsAbout,100K - 1M
+Predicate,https://schema.org/knowsAbout,1M - 10M
 Predicate,https://schema.org/knowsAbout-input,< 1K
 Predicate,https://schema.org/knowsAbout-output,< 1K
 Predicate,https://schema.org/knowsLanguage,100K - 1M
@@ -3402,7 +3402,7 @@ Predicate,https://schema.org/legislationResponsible-output,< 1K
 Predicate,https://schema.org/legislationTransposes,< 1K
 Predicate,https://schema.org/legislationTransposes-input,< 1K
 Predicate,https://schema.org/legislationTransposes-output,< 1K
-Predicate,https://schema.org/legislationType,< 1K
+Predicate,https://schema.org/legislationType,1K - 10K
 Predicate,https://schema.org/legislationType-input,< 1K
 Predicate,https://schema.org/legislationType-output,< 1K
 Predicate,https://schema.org/leiCode,1K - 10K
@@ -3564,7 +3564,7 @@ Predicate,https://schema.org/measurementQualifier-output,< 1K
 Predicate,https://schema.org/measurementTechnique,1K - 10K
 Predicate,https://schema.org/measurementTechnique-input,< 1K
 Predicate,https://schema.org/measurementTechnique-output,< 1K
-Predicate,https://schema.org/mechanismOfAction,< 1K
+Predicate,https://schema.org/mechanismOfAction,1K - 10K
 Predicate,https://schema.org/mechanismOfAction-input,< 1K
 Predicate,https://schema.org/mechanismOfAction-output,< 1K
 Predicate,https://schema.org/mediaAuthenticityCategory,< 1K
@@ -3576,7 +3576,7 @@ Predicate,https://schema.org/mediaItemAppearance-output,< 1K
 Predicate,https://schema.org/median,1K - 10K
 Predicate,https://schema.org/median-input,< 1K
 Predicate,https://schema.org/median-output,< 1K
-Predicate,https://schema.org/medicalAudience,1K - 10K
+Predicate,https://schema.org/medicalAudience,10K - 100K
 Predicate,https://schema.org/medicalAudience-input,< 1K
 Predicate,https://schema.org/medicalAudience-output,< 1K
 Predicate,https://schema.org/medicalSpecialty,100K - 1M
@@ -3591,7 +3591,7 @@ Predicate,https://schema.org/meetsEmissionStandard-output,< 1K
 Predicate,https://schema.org/member,10K - 100K
 Predicate,https://schema.org/member-input,< 1K
 Predicate,https://schema.org/member-output,< 1K
-Predicate,https://schema.org/memberOf,10K - 100K
+Predicate,https://schema.org/memberOf,100K - 1M
 Predicate,https://schema.org/memberOf-input,< 1K
 Predicate,https://schema.org/memberOf-output,< 1K
 Predicate,https://schema.org/members,< 1K
@@ -3600,7 +3600,7 @@ Predicate,https://schema.org/members-output,< 1K
 Predicate,https://schema.org/membershipNumber,< 1K
 Predicate,https://schema.org/membershipNumber-input,< 1K
 Predicate,https://schema.org/membershipNumber-output,< 1K
-Predicate,https://schema.org/membershipPointsEarned,< 1K
+Predicate,https://schema.org/membershipPointsEarned,1K - 10K
 Predicate,https://schema.org/membershipPointsEarned-input,< 1K
 Predicate,https://schema.org/membershipPointsEarned-output,< 1K
 Predicate,https://schema.org/memoryRequirements,1K - 10K
@@ -3669,7 +3669,7 @@ Predicate,https://schema.org/monthlyMinimumRepaymentAmount-output,< 1K
 Predicate,https://schema.org/monthsOfExperience,1K - 10K
 Predicate,https://schema.org/monthsOfExperience-input,< 1K
 Predicate,https://schema.org/monthsOfExperience-output,< 1K
-Predicate,https://schema.org/mpn,100K - 1M
+Predicate,https://schema.org/mpn,1M - 10M
 Predicate,https://schema.org/mpn-input,< 1K
 Predicate,https://schema.org/mpn-output,< 1K
 Predicate,https://schema.org/multipleValues,< 1K
@@ -3729,7 +3729,7 @@ Predicate,https://schema.org/newsUpdatesAndGuidelines-output,< 1K
 Predicate,https://schema.org/nextItem,1M - 10M
 Predicate,https://schema.org/nextItem-input,< 1K
 Predicate,https://schema.org/nextItem-output,< 1K
-Predicate,https://schema.org/noBylinesPolicy,1K - 10K
+Predicate,https://schema.org/noBylinesPolicy,< 1K
 Predicate,https://schema.org/noBylinesPolicy-input,< 1K
 Predicate,https://schema.org/noBylinesPolicy-output,< 1K
 Predicate,https://schema.org/nonEqual,< 1K
@@ -3771,13 +3771,13 @@ Predicate,https://schema.org/numberOfAirbags-output,< 1K
 Predicate,https://schema.org/numberOfAvailableAccommodationUnits,1K - 10K
 Predicate,https://schema.org/numberOfAvailableAccommodationUnits-input,< 1K
 Predicate,https://schema.org/numberOfAvailableAccommodationUnits-output,< 1K
-Predicate,https://schema.org/numberOfAxles,< 1K
+Predicate,https://schema.org/numberOfAxles,1K - 10K
 Predicate,https://schema.org/numberOfAxles-input,< 1K
 Predicate,https://schema.org/numberOfAxles-output,< 1K
-Predicate,https://schema.org/numberOfBathroomsTotal,10K - 100K
+Predicate,https://schema.org/numberOfBathroomsTotal,100K - 1M
 Predicate,https://schema.org/numberOfBathroomsTotal-input,< 1K
 Predicate,https://schema.org/numberOfBathroomsTotal-output,< 1K
-Predicate,https://schema.org/numberOfBedrooms,10K - 100K
+Predicate,https://schema.org/numberOfBedrooms,100K - 1M
 Predicate,https://schema.org/numberOfBedrooms-input,< 1K
 Predicate,https://schema.org/numberOfBedrooms-output,< 1K
 Predicate,https://schema.org/numberOfBeds,10K - 100K
@@ -3909,7 +3909,7 @@ Predicate,https://schema.org/orderQuantity-output,< 1K
 Predicate,https://schema.org/orderStatus,< 1K
 Predicate,https://schema.org/orderStatus-input,< 1K
 Predicate,https://schema.org/orderStatus-output,< 1K
-Predicate,https://schema.org/orderValue,< 1K
+Predicate,https://schema.org/orderValue,1K - 10K
 Predicate,https://schema.org/orderValue-input,< 1K
 Predicate,https://schema.org/orderValue-output,< 1K
 Predicate,https://schema.org/orderedItem,< 1K
@@ -4035,7 +4035,7 @@ Predicate,https://schema.org/paymentMethod-output,< 1K
 Predicate,https://schema.org/paymentMethodId,< 1K
 Predicate,https://schema.org/paymentMethodId-input,< 1K
 Predicate,https://schema.org/paymentMethodId-output,< 1K
-Predicate,https://schema.org/paymentMethodType,1K - 10K
+Predicate,https://schema.org/paymentMethodType,< 1K
 Predicate,https://schema.org/paymentMethodType-input,< 1K
 Predicate,https://schema.org/paymentMethodType-output,< 1K
 Predicate,https://schema.org/paymentStatus,< 1K
@@ -4059,7 +4059,7 @@ Predicate,https://schema.org/percentile75-output,< 1K
 Predicate,https://schema.org/percentile90,1K - 10K
 Predicate,https://schema.org/percentile90-input,< 1K
 Predicate,https://schema.org/percentile90-output,< 1K
-Predicate,https://schema.org/performTime,1K - 10K
+Predicate,https://schema.org/performTime,10K - 100K
 Predicate,https://schema.org/performTime-input,< 1K
 Predicate,https://schema.org/performTime-output,< 1K
 Predicate,https://schema.org/performer,100K - 1M
@@ -4068,7 +4068,7 @@ Predicate,https://schema.org/performer-output,< 1K
 Predicate,https://schema.org/performerIn,1K - 10K
 Predicate,https://schema.org/performerIn-input,< 1K
 Predicate,https://schema.org/performerIn-output,< 1K
-Predicate,https://schema.org/performers,10K - 100K
+Predicate,https://schema.org/performers,1K - 10K
 Predicate,https://schema.org/performers-input,< 1K
 Predicate,https://schema.org/performers-output,< 1K
 Predicate,https://schema.org/permissionType,< 1K
@@ -4077,7 +4077,7 @@ Predicate,https://schema.org/permissionType-output,< 1K
 Predicate,https://schema.org/permissions,10K - 100K
 Predicate,https://schema.org/permissions-input,< 1K
 Predicate,https://schema.org/permissions-output,< 1K
-Predicate,https://schema.org/permitAudience,< 1K
+Predicate,https://schema.org/permitAudience,1K - 10K
 Predicate,https://schema.org/permitAudience-input,< 1K
 Predicate,https://schema.org/permitAudience-output,< 1K
 Predicate,https://schema.org/permittedUsage,< 1K
@@ -4110,7 +4110,7 @@ Predicate,https://schema.org/pickupTime-output,< 1K
 Predicate,https://schema.org/playMode,10K - 100K
 Predicate,https://schema.org/playMode-input,< 1K
 Predicate,https://schema.org/playMode-output,< 1K
-Predicate,https://schema.org/playerType,1K - 10K
+Predicate,https://schema.org/playerType,10K - 100K
 Predicate,https://schema.org/playerType-input,< 1K
 Predicate,https://schema.org/playerType-output,< 1K
 Predicate,https://schema.org/playersOnline,1K - 10K
@@ -4131,7 +4131,7 @@ Predicate,https://schema.org/positiveNotes-output,< 1K
 Predicate,https://schema.org/possibleComplication,1K - 10K
 Predicate,https://schema.org/possibleComplication-input,< 1K
 Predicate,https://schema.org/possibleComplication-output,< 1K
-Predicate,https://schema.org/possibleTreatment,1K - 10K
+Predicate,https://schema.org/possibleTreatment,10K - 100K
 Predicate,https://schema.org/possibleTreatment-input,< 1K
 Predicate,https://schema.org/possibleTreatment-output,< 1K
 Predicate,https://schema.org/postOfficeBoxNumber,10K - 100K
@@ -4302,7 +4302,7 @@ Predicate,https://schema.org/programmingModel-output,< 1K
 Predicate,https://schema.org/pronouns,1K - 10K
 Predicate,https://schema.org/pronouns-input,< 1K
 Predicate,https://schema.org/pronouns-output,< 1K
-Predicate,https://schema.org/propertyID,10K - 100K
+Predicate,https://schema.org/propertyID,100K - 1M
 Predicate,https://schema.org/propertyID-input,< 1K
 Predicate,https://schema.org/propertyID-output,< 1K
 Predicate,https://schema.org/proprietaryName,< 1K
@@ -4338,7 +4338,7 @@ Predicate,https://schema.org/publicationType-output,< 1K
 Predicate,https://schema.org/publishedBy,< 1K
 Predicate,https://schema.org/publishedBy-input,< 1K
 Predicate,https://schema.org/publishedBy-output,< 1K
-Predicate,https://schema.org/publishedOn,< 1K
+Predicate,https://schema.org/publishedOn,1K - 10K
 Predicate,https://schema.org/publishedOn-input,< 1K
 Predicate,https://schema.org/publishedOn-output,< 1K
 Predicate,https://schema.org/publisher,10M+
@@ -4350,7 +4350,7 @@ Predicate,https://schema.org/publisherImprint-output,< 1K
 Predicate,https://schema.org/publishingPrinciples,10K - 100K
 Predicate,https://schema.org/publishingPrinciples-input,< 1K
 Predicate,https://schema.org/publishingPrinciples-output,< 1K
-Predicate,https://schema.org/purchaseDate,< 1K
+Predicate,https://schema.org/purchaseDate,1K - 10K
 Predicate,https://schema.org/purchaseDate-input,< 1K
 Predicate,https://schema.org/purchaseDate-output,< 1K
 Predicate,https://schema.org/purchasePriceLimit,< 1K
@@ -4374,7 +4374,7 @@ Predicate,https://schema.org/query-output,< 1K
 Predicate,https://schema.org/quest,< 1K
 Predicate,https://schema.org/quest-input,< 1K
 Predicate,https://schema.org/quest-output,< 1K
-Predicate,https://schema.org/question,< 1K
+Predicate,https://schema.org/question,1K - 10K
 Predicate,https://schema.org/question-input,< 1K
 Predicate,https://schema.org/question-output,< 1K
 Predicate,https://schema.org/rangeIncludes,< 1K
@@ -4416,7 +4416,7 @@ Predicate,https://schema.org/recipeInstructions-output,< 1K
 Predicate,https://schema.org/recipeYield,10K - 100K
 Predicate,https://schema.org/recipeYield-input,< 1K
 Predicate,https://schema.org/recipeYield-output,< 1K
-Predicate,https://schema.org/recipient,1K - 10K
+Predicate,https://schema.org/recipient,10K - 100K
 Predicate,https://schema.org/recipient-input,< 1K
 Predicate,https://schema.org/recipient-output,< 1K
 Predicate,https://schema.org/recognizedBy,10K - 100K
@@ -4503,7 +4503,7 @@ Predicate,https://schema.org/releasedEvent-output,< 1K
 Predicate,https://schema.org/relevantOccupation,< 1K
 Predicate,https://schema.org/relevantOccupation-input,< 1K
 Predicate,https://schema.org/relevantOccupation-output,< 1K
-Predicate,https://schema.org/relevantSpecialty,1K - 10K
+Predicate,https://schema.org/relevantSpecialty,10K - 100K
 Predicate,https://schema.org/relevantSpecialty-input,< 1K
 Predicate,https://schema.org/relevantSpecialty-output,< 1K
 Predicate,https://schema.org/remainingAttendeeCapacity,1K - 10K
@@ -4635,7 +4635,7 @@ Predicate,https://schema.org/riskFactor-output,< 1K
 Predicate,https://schema.org/risks,< 1K
 Predicate,https://schema.org/risks-input,< 1K
 Predicate,https://schema.org/risks-output,< 1K
-Predicate,https://schema.org/roleName,1K - 10K
+Predicate,https://schema.org/roleName,10K - 100K
 Predicate,https://schema.org/roleName-input,< 1K
 Predicate,https://schema.org/roleName-output,< 1K
 Predicate,https://schema.org/roofLoad,< 1K
@@ -4707,7 +4707,7 @@ Predicate,https://schema.org/sdPublisher-output,< 1K
 Predicate,https://schema.org/season,1K - 10K
 Predicate,https://schema.org/season-input,< 1K
 Predicate,https://schema.org/season-output,< 1K
-Predicate,https://schema.org/seasonNumber,1K - 10K
+Predicate,https://schema.org/seasonNumber,10K - 100K
 Predicate,https://schema.org/seasonNumber-input,< 1K
 Predicate,https://schema.org/seasonNumber-output,< 1K
 Predicate,https://schema.org/seasonalOverride,< 1K
@@ -4767,7 +4767,7 @@ Predicate,https://schema.org/serverStatus-output,< 1K
 Predicate,https://schema.org/servesCuisine,100K - 1M
 Predicate,https://schema.org/servesCuisine-input,< 1K
 Predicate,https://schema.org/servesCuisine-output,< 1K
-Predicate,https://schema.org/serviceArea,10K - 100K
+Predicate,https://schema.org/serviceArea,100K - 1M
 Predicate,https://schema.org/serviceArea-input,< 1K
 Predicate,https://schema.org/serviceArea-output,< 1K
 Predicate,https://schema.org/serviceAudience,1K - 10K
@@ -4791,7 +4791,7 @@ Predicate,https://schema.org/servicePostalAddress-output,< 1K
 Predicate,https://schema.org/serviceSmsNumber,1K - 10K
 Predicate,https://schema.org/serviceSmsNumber-input,< 1K
 Predicate,https://schema.org/serviceSmsNumber-output,< 1K
-Predicate,https://schema.org/serviceType,100K - 1M
+Predicate,https://schema.org/serviceType,1M - 10M
 Predicate,https://schema.org/serviceType-input,< 1K
 Predicate,https://schema.org/serviceType-output,< 1K
 Predicate,https://schema.org/serviceUrl,10K - 100K
@@ -4815,7 +4815,7 @@ Predicate,https://schema.org/shippingDestination-output,< 1K
 Predicate,https://schema.org/shippingDetails,100K - 1M
 Predicate,https://schema.org/shippingDetails-input,< 1K
 Predicate,https://schema.org/shippingDetails-output,< 1K
-Predicate,https://schema.org/shippingLabel,1K - 10K
+Predicate,https://schema.org/shippingLabel,10K - 100K
 Predicate,https://schema.org/shippingLabel-input,< 1K
 Predicate,https://schema.org/shippingLabel-output,< 1K
 Predicate,https://schema.org/shippingOrigin,10K - 100K
@@ -5142,7 +5142,7 @@ Predicate,https://schema.org/termsOfService-output,< 1K
 Predicate,https://schema.org/termsPerYear,< 1K
 Predicate,https://schema.org/termsPerYear-input,< 1K
 Predicate,https://schema.org/termsPerYear-output,< 1K
-Predicate,https://schema.org/text,1M - 10M
+Predicate,https://schema.org/text,10M+
 Predicate,https://schema.org/text-input,< 1K
 Predicate,https://schema.org/text-output,< 1K
 Predicate,https://schema.org/textValue,< 1K
@@ -5211,7 +5211,7 @@ Predicate,https://schema.org/torque-output,< 1K
 Predicate,https://schema.org/totalHistoricalEnrollment,< 1K
 Predicate,https://schema.org/totalHistoricalEnrollment-input,< 1K
 Predicate,https://schema.org/totalHistoricalEnrollment-output,< 1K
-Predicate,https://schema.org/totalJobOpenings,< 1K
+Predicate,https://schema.org/totalJobOpenings,1K - 10K
 Predicate,https://schema.org/totalJobOpenings-input,< 1K
 Predicate,https://schema.org/totalJobOpenings-output,< 1K
 Predicate,https://schema.org/totalPaymentDue,< 1K
@@ -5292,7 +5292,7 @@ Predicate,https://schema.org/tripOrigin-output,< 1K
 Predicate,https://schema.org/typeOfBed,10K - 100K
 Predicate,https://schema.org/typeOfBed-input,< 1K
 Predicate,https://schema.org/typeOfBed-output,< 1K
-Predicate,https://schema.org/typeOfGood,< 1K
+Predicate,https://schema.org/typeOfGood,1K - 10K
 Predicate,https://schema.org/typeOfGood-input,< 1K
 Predicate,https://schema.org/typeOfGood-output,< 1K
 Predicate,https://schema.org/typicalAgeRange,10K - 100K
@@ -5442,7 +5442,7 @@ Predicate,https://schema.org/vendor-output,< 1K
 Predicate,https://schema.org/verificationFactCheckingPolicy,1K - 10K
 Predicate,https://schema.org/verificationFactCheckingPolicy-input,< 1K
 Predicate,https://schema.org/verificationFactCheckingPolicy-output,< 1K
-Predicate,https://schema.org/version,1K - 10K
+Predicate,https://schema.org/version,10K - 100K
 Predicate,https://schema.org/version-input,< 1K
 Predicate,https://schema.org/version-output,< 1K
 Predicate,https://schema.org/video,100K - 1M
@@ -5460,7 +5460,7 @@ Predicate,https://schema.org/videoQuality-output,< 1K
 Predicate,https://schema.org/volumeNumber,1K - 10K
 Predicate,https://schema.org/volumeNumber-input,< 1K
 Predicate,https://schema.org/volumeNumber-output,< 1K
-Predicate,https://schema.org/warning,< 1K
+Predicate,https://schema.org/warning,1K - 10K
 Predicate,https://schema.org/warning-input,< 1K
 Predicate,https://schema.org/warning-output,< 1K
 Predicate,https://schema.org/warranty,10K - 100K
@@ -5514,7 +5514,7 @@ Predicate,https://schema.org/workLocation-output,< 1K
 Predicate,https://schema.org/workPerformed,1K - 10K
 Predicate,https://schema.org/workPerformed-input,< 1K
 Predicate,https://schema.org/workPerformed-output,< 1K
-Predicate,https://schema.org/workPresented,< 1K
+Predicate,https://schema.org/workPresented,1K - 10K
 Predicate,https://schema.org/workPresented-input,< 1K
 Predicate,https://schema.org/workPresented-output,< 1K
 Predicate,https://schema.org/workTranslation,10K - 100K

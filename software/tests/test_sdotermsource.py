@@ -25,14 +25,14 @@ class TestConversionFunctions(unittest.TestCase):
     def testToFullId(self):
         self.assertEqual(sdotermsource.toFullId("fnord"), "https://schema.org/fnord")
         self.assertEqual(
-            sdotermsource.toFullId("http://schema.org/Thing"), "http://schema.org/Thing"
+            sdotermsource.toFullId("https://schema.org/Thing"), "https://schema.org/Thing"
         )
 
     def testUriWrap(self):
         self.assertEqual(sdotermsource.uriWrap("fnord"), "fnord")
         self.assertEqual(
-            sdotermsource.uriWrap("http://schema.org/Thing"),
-            "<http://schema.org/Thing>",
+            sdotermsource.uriWrap("https://schema.org/Thing"),
+            "<https://schema.org/Thing>",
         )
 
     def testLayerFromUri(self):
@@ -54,8 +54,8 @@ class TestConversionFunctions(unittest.TestCase):
             sdotermsource.getProtoAndRoot(""), sdotermsource.ProtoAndRoot(None, None)
         )
         self.assertEqual(
-            sdotermsource.getProtoAndRoot("http://schema.org/Thing"),
-            sdotermsource.ProtoAndRoot("http://", "schema.org/Thing"),
+            sdotermsource.getProtoAndRoot("https://schema.org/Thing"),
+            sdotermsource.ProtoAndRoot("https://", "schema.org/Thing"),
         )
 
     def testUri2id(self):
@@ -110,6 +110,26 @@ class TestConversionFunctions(unittest.TestCase):
         self.assertIn(
             "GoodRelations Vocabulary for E-Commerce", collaborator.acknowledgement
         )
+
+    def testParentPathsNoExternalDuplicates(self):
+        seller_paths = sdotermsource.SdoTermSource.getParentPathTo("seller")
+        self.assertEqual(seller_paths, [["Thing", "Property", "participant", "seller"]])
+
+        min_price_paths = sdotermsource.SdoTermSource.getParentPathTo("minPrice")
+        self.assertEqual(min_price_paths, [["Thing", "Property", "minPrice"]])
+
+    def testLazyResolution(self):
+        lazy_pending = sdoterm.SdoTermOrId(term_id="subTrip")
+        self.assertFalse(lazy_pending.expanded)
+        self.assertTrue(lazy_pending.pending)
+        self.assertFalse(lazy_pending.retired)
+        self.assertEqual(lazy_pending.extLayer, "pending")
+
+        lazy_attic = sdoterm.SdoTermOrId(term_id="variablesMeasured")
+        self.assertFalse(lazy_attic.expanded)
+        self.assertFalse(lazy_attic.pending)
+        self.assertTrue(lazy_attic.retired)
+        self.assertEqual(lazy_attic.extLayer, "attic")
 
 
 if __name__ == "__main__":
