@@ -1,9 +1,9 @@
 
-TYPES: #eg-0304 televisionseries, episode
+TYPES: #eg-0304 text, book
 
 PRE-MARKUP:
 
-Example of tv special.
+Example of a screenplay.
 
 MICRODATA:
 
