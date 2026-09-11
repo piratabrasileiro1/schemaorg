@@ -506,7 +506,7 @@ class SdoTermSource:
         wpre: Optional[str] = None
         assert self.termdesc is not None
         name: str = self.termdesc.id
-        if name.startswith("http:"):
+        if name.startswith("https:"):
             val: str = Path(name).name
             wpre = name[: -len(val)]
 
@@ -603,7 +603,6 @@ class SdoTermSource:
 
     def _getParentPaths(self, term: sdoterm.SdoTerm, cstack: List[str]) -> None:
         cstack.insert(0, term.id)
-        tmpStacks: List[List[str]] = [cstack]
         super_ids: List[str] = list(term.supers.ids)
 
         if (
@@ -614,6 +613,12 @@ class SdoTermSource:
             assert term.enumerationParent.id is not None
             super_ids.append(term.enumerationParent.id)
 
+        super_ids = [
+            sid for sid in super_ids
+            if not (sid.startswith("http:") or sid.startswith("https:"))
+        ]
+
+        tmpStacks: List[List[str]] = [cstack]
         if super_ids:
             i: int
             for i in range(1, len(super_ids)):
@@ -624,10 +629,9 @@ class SdoTermSource:
             x: int
             parent_id: str
             for x, parent_id in enumerate(super_ids):
-                if not (parent_id.startswith("http:") or parent_id.startswith("https:")):
-                    sup: Optional[sdoterm.SdoTerm] = self.__class__._getTerm(parent_id)
-                    if sup:
-                        self._getParentPaths(sup, tmpStacks[x])
+                sup: Optional[sdoterm.SdoTerm] = self.__class__._getTerm(parent_id)
+                if sup:
+                    self._getParentPaths(sup, tmpStacks[x])
 
     @classmethod
     def getParentPathTo(cls, start_term_id: str, end_term_id: Optional[str] = None) -> List[List[str]]:
@@ -1215,7 +1219,7 @@ ProtoAndRoot = collections.namedtuple("ProtoAndRoot", ["proto", "root"])
 
 
 def getProtoAndRoot(uri: str) -> ProtoAndRoot:
-    m: Optional[re.Match] = re.search(r"^(http[s]?:\/\/)(.*)", uri)
+    m: Optional[re.Match] = re.search(r"^(https:\/\/)(.*)", uri)
     if m:
         return ProtoAndRoot(m.group(1), m.group(2))
     return ProtoAndRoot(None, None)
