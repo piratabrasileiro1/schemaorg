@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "TVEpisode",
+  "@type": "TVPilot",
   "name": "tv-pilot-name",
   "alternateName": "Other name",
   "description": "a nice pilot.",
