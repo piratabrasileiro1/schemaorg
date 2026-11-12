@@ -1,4 +1,23 @@
 
+TYPES: #eg-XXXX
+
+SoftwareApplication, Person, ViewAction, EntryPoint
+
+PRE-MARKUP:
+
+This example demonstrates structured data for a software application (a fictional sourceport). It showcases how to describe software details using SoftwareApplication, identify the developer using Person, specify the software version and publication date, provide screenshots and video demonstrations, identify the original project using isBasedOn, and define website and download entry points using ViewAction and EntryPoint. It also demonstrates linking a downloadable application to its website, software identity, operating system, and discussion page.
+
+MICRODATA:
+
+Example is JSON-LD only.
+
+RDFA:
+
+Example is JSON-LD only.
+
+JSON:
+HTML
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
@@ -37,3 +56,4 @@
     ]
   }
 }
+</script>
